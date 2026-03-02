@@ -10,15 +10,4 @@
 	"observability": {
 		"enabled": true
 	},
-	"queues": {
-		"consumers": [
-			{
-			}
-		],
-		"producers": [
-			{
-				"binding": "MY_QUEUE"
-			}
-		]
-	}
 }
